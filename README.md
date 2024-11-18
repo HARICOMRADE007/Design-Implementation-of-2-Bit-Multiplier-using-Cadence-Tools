@@ -8,6 +8,11 @@ Tools Required:
 •	Personal Computer
 •	Cadence Virtuoso Software
 
+Circuit:
+
+![385748670-d9cd3034-570c-4b86-8847-b608ccb1c2b5](https://github.com/user-attachments/assets/7dfc9b5a-53d9-426e-8166-3fc2a9447163)
+
+
 S C H E M A T I C S I M U L A T I O N - PROCEDURE FOR CREATING THE SCHEMATIC SIMULATION -Commands to get into Cadence
 
 1.	Right Click and open the terminal window
@@ -47,8 +52,7 @@ ii)	Create Schematic Cell view.
 	Create Input and Output pins
 	Make the connections by using fixed narrow wire key
 	Click Check and Save button
-
-![IMG-20241019-WA0032](https://github.com/user-attachments/assets/367dd590-0978-45bf-bbc9-84e181d23d0a)
+![386265066-114f637f-30ef-44d1-8a6a-42644be75105](https://github.com/user-attachments/assets/8de7af4b-ecd0-4e7b-9e94-6176a7737fa3)
 
  
 iii)	Creating the Symbol for schematic Cell view
@@ -65,7 +69,8 @@ iii)	Creating the Symbol for schematic Cell view
 •	Check for the position of pin side.Prss OK
 •	Edit for the shape by Create-Shape-Choose required options to edit.
 
- ![IMG-20241019-WA0029](https://github.com/user-attachments/assets/bcea6826-7c9d-464b-a645-aa0f6b0c80aa)
+![386265188-cb43cbb5-7e05-4346-bf77-ca28869a8cf3](https://github.com/user-attachments/assets/4e591926-7a25-4658-9ca1-66c61f60344e)
+
 
 
 
@@ -79,8 +84,9 @@ iv)	Creating the new test cell view
 	Type: Schematic press OK
 •	Follow the step 3(ii) d to make the required connections
 
+![386265281-451bd1d5-09b3-4250-b2ae-29156738339a](https://github.com/user-attachments/assets/c787003e-c7d8-4dfa-a972-cb87917e1634)
 
-![IMG-20241019-WA0031](https://github.com/user-attachments/assets/11ad6598-e17a-42d3-becf-022d93e4e99d)
+
 
  
 
@@ -95,14 +101,16 @@ Analog simulation by SPECTRE.
 	Then Select the INPUT WIRE(Vin ) and OUTPUT WIRE(Vout) from your test Schematic using mouse
 •	Execute Simulation -- Net list and Run
 
-![IMG-20241026-WA0016](https://github.com/user-attachments/assets/cefafc03-6c2e-4227-91fe-f21f1241754c)
+![386265742-985db8fd-a528-4e44-8025-8a0d3d9feb98](https://github.com/user-attachments/assets/10156a97-e0b8-4ea6-aaa7-ba3b23aebf5f)
+
 
 
 For Transient Analysis Settings and Output
-![IMG-20241019-WA0028](https://github.com/user-attachments/assets/ccc48800-045e-4cf8-b9d7-bf8fc443e8ae)
+![386265845-5417d795-1a69-46e8-a09a-2f6f0e0dad9b](https://github.com/user-attachments/assets/7f1058b1-c83b-4dae-8a68-9036dedb3f37)
+
+![386261603-f7380c1f-059c-4b71-b7c1-45ec322a8e58](https://github.com/user-attachments/assets/1f120f41-ed74-4349-a6bb-55895c569567)
 
 
- ![IMG-20241019-WA0027](https://github.com/user-attachments/assets/c13a30de-284c-4201-8bde-c9fc9e88234b)
 
   
 
